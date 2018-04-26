@@ -1,0 +1,119 @@
+* {
+	font-family: 'Palanquin', sans-serif;
+	color: #C98474;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 40px;
+	color: #874C62;
+}
+
+h2 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 50px;
+	color: #874C62;
+	text-align: right;
+	margin-right: 200px;
+}
+
+ul{
+	margin: 1%;
+	
+	}
+
+li {
+	display: inline;
+	font-family: 'Palanquin', sans-serif;
+	padding: 60px;
+	font-size: 20px;
+	color: white;
+	
+}
+
+}
+
+main{
+	overflow: auto;
+}
+
+nav {
+	margin: 1%;
+	background-color: #A7D2CB;
+	border-radius: 10px;
+	border: 5px solid #5DB1A3;
+}
+
+.column1, .column2, .column3 {
+	margin: 1%;
+	width: 90%;
+	float: left;
+}
+
+
+body {
+
+	width: 80%;
+	margin: auto;
+	text-align: left;
+	background-color: #FFFBEB;
+}
+
+
+
+#blue {
+	margin-top: 2%;
+	background-color: #A7D2CB;
+	padding: 1%;
+	width: 98%;
+	
+
+
+}
+
+#groceries {
+	background-color: skyblue;
+	width: 98%;
+	padding: 1%;
+	font-size: 90pt;
+	margin-top:2%;
+	float: left;
+}
+
+#deli {
+	background-color: skyblue;
+	width: 98%;
+	padding: 1%;
+	margin-top:2%;
+	float: left;
+	text-align: right;
+}
+
+#liquor {
+	background-color: skyblue;
+	width: 98%;
+	padding: 1%;
+	margin-top:2%;
+	float: left;
+	text-align: right;
+}
+
+#cigarettes {
+	background-color: skyblue;
+	width: 98%;
+	padding: 1%;
+	margin-top:2%;
+	float: left;
+	text-align: right;
+}
+
+
+#sblack {
+	background-color: black;
+	width: 98%;
+	padding: 1%;
+	margin-top:2%;
+	float: right;
+	text-align: right;
+}
